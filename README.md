@@ -2,7 +2,7 @@
 
 I am an aspring Aerospace Engineer, currently enrolled at the Massachusetts Institute of Technology.
 
-I enjoy many aspects of engineering, physics, math, linguistics, and CS. I am proficient in Python, Java, Matlab, and Swift.
+I enjoy many aspects of engineering, physics, math, linguistics, and CS. I am proficient in Python, Java, Matlab, and Swift, learning Julia and Metal.
 
 I often perform data analysis tasks relating to scientific research. You can find my published papers here: https://orcid.org/0000-0001-5330-2676
 
