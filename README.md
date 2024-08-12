@@ -12,7 +12,7 @@ I also have extensive experience in FTC/FLL FIRST competitions, having been a pa
 
 I run the websites https://stemrobotics4all.org, which is a site of resources for FLL/FTC teams both rookie and advanced, as well as https://latinfolk.org, a site celebrating Romanian and latin folk music.
 
-I speak Romanian, French, Spanish, and English, learning Hungarian and Russian, and am always happy to contribute to localizations of apps, websites, or services.
+I speak Romanian, French, Spanish, and English, learning Hungarian, Russian, Hebrew, and Arabic, and am always happy to contribute to localizations of apps, websites, or services.
 
 Feel free to reach out to me at mailto:starfleetcaptain676@gmail.com
 
