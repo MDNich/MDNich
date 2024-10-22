@@ -1,6 +1,6 @@
 ### Hello :)
 
-I am an aspring Aerospace Engineer, currently enrolled at the Massachusetts Institute of Technology.
+I am an aspiring Aerospace Engineer, currently enrolled at the Massachusetts Institute of Technology.
 
 I enjoy many aspects of engineering, physics, math, linguistics, and CS. I am proficient in Python, Java, Matlab, and Swift, familiar with R and HTML/CSS/JS, learning Julia and Metal.
 
