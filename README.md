@@ -14,7 +14,7 @@ I run the websites https://stemrobotics4all.org, which is a site of resources fo
 
 I speak Romanian, French, Spanish, and English, learning Hungarian, Russian, Hebrew, and Arabic, and am always happy to contribute to localizations of apps, websites, or services.
 
-Feel free to reach out to me at mailto:starfleetcaptain676@gmail.com
+Feel free to reach out to me at mailto:nichitiu@mit.edu
 
 Thank you !
 
