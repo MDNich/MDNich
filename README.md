@@ -1,4 +1,4 @@
-### Hello :)
+### Hello !
 
 I am an aspiring Aerospace Engineer and Physicist, currently enrolled at the Massachusetts Institute of Technology.
 
